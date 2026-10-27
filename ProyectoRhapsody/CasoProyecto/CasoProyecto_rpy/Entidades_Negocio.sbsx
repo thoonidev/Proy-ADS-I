@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0</version>
+	<lang>C++</lang>
+	<BuildNo>202402122040</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 6050adb0-e612-4f90-b59b-32981854f754</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Entidades_Negocio</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::8:16:34</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MAN.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN</_hsubsystem>
+					<_hname type="a">Organizaci%F2n del MAN</_hname>
+					<_hid type="a">GUID 5b335216-ca0f-4a99-ab95-218480ce18c7</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::8:35:44</_modifiedTime>
+			<_lastID type="a">16</_lastID>
+			<weakCGTime type="a">6.13.2019::8:16:34</weakCGTime>
+			<strongCGTime type="a">6.13.2019::6:24:0</strongCGTime>
+			<_defaultComposite type="s">GUID 99644ec3-a083-407f-87bc-db24a4819dde</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">6.13.2019::5:13:4</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</value>
+				<value>GUID 99644ec3-a083-407f-87bc-db24a4819dde</value>
+				<value>GUID ebeb9167-a092-4174-b6f1-9735a52dc67f</value>
+				<value>GUID 6e111b0d-02de-4038-91c1-8225706f0dc8</value>
+				<value>GUID a5dbf612-a3f8-4ffd-abf8-96679287d053</value>
+				<value>GUID b05d0feb-ed6e-4889-86be-22796c34cb6d</value>
+				<value>GUID 935a95fa-ef96-4408-b17e-bcf3a71fb847</value>
+				<value>GUID 094504b3-7f56-4f90-a6be-2cef0a1d6213</value>
+				<value>GUID d93e02b8-ec1d-41e9-ad97-f7827b86ad0f</value>
+				<value>GUID fdcecfd8-b599-4699-815f-97c79c9227e1</value>
+				<value>GUID e02c78a3-7914-4e35-b754-6c9a4c2501b3</value>
+				<value>GUID 4376609a-ce17-4c12-8d3e-6d7aa6b66177</value>
+				<value>GUID 23f4329e-99ae-4ff0-96f6-81ae6baa7396</value>
+				<value>GUID 0bbede87-4330-42da-8fcf-87a263d7d4f2</value>
+				<value>GUID a94ffdc6-3f45-4d56-9946-7c8fde24b635</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDiagram type="e">
+			<_id type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Class</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,34,84,148</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineStyle</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Diagrama de EN</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">Class Diagram</_hname>
+							<_hid type="a">GUID d8f09f1b-7167-4c70-9584-943cfaf8fa2a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::8:16:37</_modifiedTime>
+			<_lastModifiedTime type="a">6.13.2019::8:16:37</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 6050adb0-e612-4f90-b59b-32981854f754</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID 62c9aaef-d528-4145-9636-39c93e7b6a6d</value>
+			</AggregatesList>
+		</IDiagram>
+		<CGIClassChart type="e">
+			<_id type="a">GUID 62c9aaef-d528-4145-9636-39c93e7b6a6d</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">14</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</value>
+				<value>GUID 8db9b766-4102-4a66-b672-67ce1bc367c6</value>
+				<value>GUID a2d81dc9-c155-4a00-ae1a-4aece865a613</value>
+				<value>GUID ae9afbab-d7ea-483e-bc97-cb8203f96540</value>
+				<value>GUID 33fbb615-d331-4ea0-b54c-f87894157d53</value>
+				<value>GUID d82e976f-f148-4767-bc5c-82628e83710a</value>
+				<value>GUID a7ef4dc8-d5e5-4001-86b4-ca6a83f5d3bd</value>
+				<value>GUID a922a00b-5461-4800-bec7-2d273b7a4aad</value>
+				<value>GUID 62872975-5943-408f-be43-cddde6518ce5</value>
+				<value>GUID 7ba5b6b4-cce5-4bac-a0c1-910fa8c2919d</value>
+				<value>GUID 538b3156-f8ab-419a-95ce-5ac1cd8da32c</value>
+				<value>GUID e34c3594-8cd5-4612-96cd-fcd2eb4407d0</value>
+				<value>GUID 91515f83-cae2-479a-a3de-6b32fc6ec858</value>
+				<value>GUID c1148255-8388-4810-9e47-76d7bca517ce</value>
+			</AggregatesList>
+		</CGIClassChart>
+		<CGIClass type="e">
+			<_id type="a">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</_id>
+			<m_type type="a">78</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 99644ec3-a083-407f-87bc-db24a4819dde</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">TopLevel</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+		</CGIClass>
+		<CGIClass type="e">
+			<_id type="a">GUID 8db9b766-4102-4a66-b672-67ce1bc367c6</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID ebeb9167-a092-4174-b6f1-9735a52dc67f</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Expediente</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 114.841 96.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID ca6222c1-9b5d-40cf-b8ee-7c63fc2d9047</value>
+				<value>GUID fefee6ee-e438-47e9-aba1-437344d357b6</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID ca6222c1-9b5d-40cf-b8ee-7c63fc2d9047</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID fefee6ee-e438-47e9-aba1-437344d357b6</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID a2d81dc9-c155-4a00-ae1a-4aece865a613</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 935a95fa-ef96-4408-b17e-bcf3a71fb847</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Opinion_Legal</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793202 0 0 0.101604 355.841 96.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID a1212d1f-f075-4992-bc02-4084cd9387c7</value>
+				<value>GUID 18eb0d74-aa3e-46b6-9f9d-dbbc37f8b6c6</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID a1212d1f-f075-4992-bc02-4084cd9387c7</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 18eb0d74-aa3e-46b6-9f9d-dbbc37f8b6c6</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID ae9afbab-d7ea-483e-bc97-cb8203f96540</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 094504b3-7f56-4f90-a6be-2cef0a1d6213</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Informe_Contrato</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">4 -25 -8  84 -8  84 5  -25 5  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_transform type="a">1 0 0 1 382 419 </m_transform>
+					<m_nHorizontalSpacing type="a">5</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 351.841 292.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 0a1cb210-f49a-4768-8862-e62522714119</value>
+				<value>GUID 477c1bf1-60e4-4f91-b4e7-a71cbddbf4be</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 0a1cb210-f49a-4768-8862-e62522714119</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 477c1bf1-60e4-4f91-b4e7-a71cbddbf4be</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID 33fbb615-d331-4ea0-b54c-f87894157d53</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b05d0feb-ed6e-4889-86be-22796c34cb6d</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Informe_ProcesosJudiciales</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793202 0 0 0.101604 134.841 292.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 350d3cb6-fcae-4722-8919-94c7ee012ed5</value>
+				<value>GUID 891d1565-f200-4a7c-a860-94cb138b7d15</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 350d3cb6-fcae-4722-8919-94c7ee012ed5</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 891d1565-f200-4a7c-a860-94cb138b7d15</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIImageData type="e">
+			<_id type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_dataSize type="a">9217</m_dataSize>
+			<m_data type="a">12cd#Zd8ZWGH4a464946G010101G60G60GGZdbG43G01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101ZdbG430101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101ZUG1108G38G4f030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfefe28a2bc77e3dfc6ef097eceZG0bf59f8a7e32b2d7f58b0b1d6bUbe0ed07c31e13b3b0bdf14f8e3e237c56f1f7863e147c26f875e1a1acea7Qf86acb5ff88ff14bc6de0fY268dacf8d3c4be11Y0e81a8f886db5cf1ZG8cfc1dWbd3b5df14692d26da4936db4924aedb7a2492d5b6f64294a318b949a8c629ca52934a318a576db7a2496adbd12d59e77f1d7f6baf867Y4fc4363f0c74eb0d77e377ed19ae68567e2eYc7ecafY6756f86f7df1ef5dY14fa8eaba6defc4fbcd0fe22fcJf86fWef87ZG09348b8d035ed3Xfe2d7c59f1c7c3ef86da878bec74df853e1df14eb9f18fc69f0f7e1e78Te58d43W77c7af8fef2eb5fb567ed0be3ad0f4a2a351d0ZG67dfd8cfe257c55fd983e1cfNae2494cfa64baffc7cf86be2cf03fed5df1efc7be1O75cfHf82754f1Kc7c43f82bfb3cfc4ZG0f5bf86fc7571fb12fc37fO7e1bb5d7f4fedff66ff857e2df877e0fd6fc53f16aZGc3fae7ed1ff1d75fd23e317ed43e24Y6cd7e7U3ab7c6cb9f873e03f871a969ZG0c2c351d3744b9d27e147c3cY5fc37f03fc24f84d6ba9e8d6fe31d4be1df803c35e25f8ada9f8dfe2feb3f117e2078b7e86ed8c93df249249f52c4924W019249U0bd0G3dfc2e5d08c54a6aIaba7373ae68526d2972a868a7349fbce4f9137a465L9fe35c41c6d8ac4559d1c154ab85Ude4a8bc34bd962b1908c9c5622ae25a94f0b4272837429508c71138294RKa519d367c5179fY4c2ff8271cc1af35efd8b3f64df893e24bd94dc6Te37f899fGfc07f15be2678cb559b7cdab78bfe24fc58f8abe17f11fc49f897e3ff11eQf26afe2bf1f78f3c4de29f1af8d75ebdd57c49e2ef11ea9af5f5ddf5fbed7f613f855e05d973fb3678ebe3dfec797fa587ZG842f47fd9b3eI78b7c3bf02fe1d1bedd1f8Of82ff629f1ddc7c44fd82acffe12d86f35dbaf118d57f65ad63ed3e2ZG13ebdf162c7fb3beI4f67f116c7ed4a2bbd612872b8ceHa976df34a9d28cb5b2d1d2a74d2f856a95f4576d256f8cfedcVe15d6230d8bc4e12694538d0c5e3670938c9cef3589c4e225352959ca1293a6ecbdcT77f9cf44fdb27c57fb3f6341fdbf1bU5e09Ya5bfP2c3fb74784acf48f849fb1ddf4faQ5b8f0ff837e27f873e21fc6af88ff123f65ff1ebddc5ad78534fd53e20788fc6bfb3df8e6ff4ZG87M689fb43e8df1c7e3cf847f65df0d7e8e57ca7e27Yc786bc6fe1af11782fc69e1dd0bc5fWef17e85abf85fc59e13f14691a7fO3cIe28f0cf8834fb8d275ef0ef88b41d5adXf4ad6f42d6f4abTbdI57d2353b4bad3f52d3Xae2caf6de7b69e589bc2bfL4f8adeIf853f1dbc41fb177c64f157883c5f6bade81af7c53fd8abc75e27d46f7c6feIf17fecfdYf34bf85be1ef8abf0fbe2dfc43baPbc47affc51f80df12be20e8fa4d878Te21e9b37Obe24fc16f1c7c1ZGHf88fe2efc76f8ed65fb41fOf42f131fNfabfef695dd176524dddc24dd974T8bd937769e8fa37facY7f184b3893cbb31f671cc23073a35a0a34e18b841454d385ecb12b5a928d34a138734aH828347e90d14515e59faG57e6c7ed573bf8c3f6e2fd817e166a5b2dfc3dWaf067ed91fb64e9779640c7acdcfc4ef841e19f8Ifb24786b41bfb9b87b9b193c097dYe3fe0a05f1935cd774cb7d3adbc4173e35Yc7c33d474ff13ePa168fe29Ye78cbf49ebf323c7f6e3U7fY538d3eecc8354ff86abfd8425b71191f603e053fS07ed0225dc1b75e7fc2527e2c8ZG82961f936f877fe1031f050b6ef19ffc2c6c780fab04a32c5d052972a5522d3b5ef28bbc63e5cd24a37e97bf43e7b8aea55a5c3b9bca8c1ce6Y93a724a4a36aK651aKe779269aa7467526e3bcd47962d49a67d6da824b049159c9379df64822451e5ac660Iafdb27b56504b7P6d73733c52f9ac6512ac8184602c3150a73bbcaed248ef248e4b3c92I3bT1e59ddd8967763cb3b12Vc4b3124934dafaR51Ma708c9a73b5e6e2acaK25ef54924924b9a6e52d96fb2d8fe78c5d58d7c4d6a94d49527371a109Tca9e1e0953c3d26ef2fe1518d3a6bde96915ef3dd9451456873857e7c7fc14691fc39f0eZG678f8d7a5dcdd43e30f811fb6d7eca5aaf82e11318f49b8bdfda23e26d97ec2fe31975a4b7H6a92b689Y9ff6b2f88be26f083e93ab68f2e9df12b43f046b5aac9adf86f4cd73c23e23fbabc51e28Ycf823cIe22f1a78d3c45a17843c1de10d0b57f1478b3c59e28d5f4fd03cIe17f0ce81a7dc6adaf788bc45af6ad7169a5e89a1689a5da5d6a5abeafa95d5b69fa6e9f6d717979710dbc3248bfc66ffc143be27fed4fZG05c7f83be2cd77W478b35cfd987fe091fe11fda07f6Mf81dWcfObe23Y86b27c7bZG05Gf8b5f153f6b4f845fb3c5d7c48b6Y3de6adWfd52d7f66ef811ab78eafbc63e17d075fbfd320f12fc45Y8e950789ec6f3e28da6a3a2fec8bc78e9c234274e51e79K84d460ba72ae6751f654eca57ee96dbafa4e16c257ad9bW7150a91a143098dc23ab5ea3718ca556b4614f09069373ad8bbca9429afb2e75256aM9497f761W1f13ZGc267Wfd07c48d0f9136a5L7ed7H8fca892fece79ac351fb34Le2e9d6cdafad6e1acbcd9e498da342d3ed98ba2f5f5f397eV3ff220eaZGf637dfZGe997Jafa36be4cfe8b5R5eO2bWcfdb9bU7e2948be01fed2df0efc2faef8b3c61fb2d7c5bff8497c65e16f036897ba8fc42fO9fb367c51f0beb5f09fe3ff81f497f0fc3a878cfc49a1f816d3c4bWcfdb064f82de14Yd78f35ef8f5f11ZG647f855f0e3c21W7bdf8a3a87c39f13784bef3a2aa139539c2a47494251947aeb169abaeaaeb55d4c71586a58V3623095e2e5471346a50ab14dc5ba7560e13b496b1972c9da4b54ecd6a8f94fc2fe28f0d78dfc35e1df1a782fc45a178bfc1de2fd0b49f14784fc59e17d5f4ZGH7867c51e1ad7ec2df56d0bc45e1dd7b49b8bbd2b5bd0b5bd2eXd752d2357d32Xeb4fd4b4fb9b7bcb2b89ada68e46dcaf89f5fd2fc63fS05ZG8b49Y26a9e32fd826f3c49657bf0cedfe0d787fe257c4af8a9fb1fdbeb9e17d0b4b8bWa69bfb37780be1bf8dbc65e38fd98e0fO7e1df12eb9W4f177cIf187Obc41Y427f8dfe05fd9f3c29fbIf817f64ff8250fc4cf01fd79e17f14786bc6fe1aYef8d3c17e22d0bc5fe0ef17e85a478a3c27e2cYbead61aff86bc51e19f1069f6fab683e22YXTa55c5de97ade85ade957769a9e91abe9b7573a7ea5a7dd5bded9dc4d6d347237d6e1b154f13052835ce92f690d538cacafbef1bed2574fbdX97f38e7b9163722c5ce862694dd094e7f55c5257a5Oa49be56a4bdd8dK1b7b5a4ed3837b38384a5b9585e28f147867c11e19f1178d3c69e22d0bc21e0eY8685abf8a3c59e2cf146afa7e81e19Ybf86740d3ee356d7bc45e22d7b56b8b4d2f44d0b44d2ed2eb52d5f57d4aeadb4fd374fb6b8bcbcb886de19245c3f895f12bc15Y87c15ad7c42fO5ad7f61785b42fece86e2e21d3b56d7756d4f56d7756SYef85fc2be15f0bf876c356f14f8d7c75e35f14eada3783bc01W0f0768daef8d7c7fe35d77JY6783340d77c53aX91a45efce5e16f861f16fe377897c3ZG12bf69c4d07c39W2f0feb9a47c41f845fb26e95a7437973W5f16e8f7Y6a1e0df17fed3df1134df1bf8afc1bf1cfe2b7Nae34ad23c73e05Y67c3ed1fc3df03fe02fc5ad5755d4b4ed6ZG6a2f1d7c24fd9eZG69ef096d2959a8c53949abdb6495d26e52d96fa2f8a567ca9a8c9c7cR74938bab524a14a32e5bfdba93b26e9d28d9f34945a739b4a9d25287b492954a50a9f191f85ff12ffe0aPf12dbc47fb477c3af1dfc21ff826c7c21f1cf9df0bZG658f8ade13d7fe1ffc4bfdTbe267807c404d87c6cfdac3e1a78b2c349f15f827f653f04f8a3488fKf813fb2e78e746d2f5ZG8d5e20d374df8d3fb40787ecfc1b65Yf3e195efQfed050784bc75f16ZG674fd95fe1268ba1e93f06ZG649d7b4cf8a9f1a3c3fe0eSb4b1f857e10d57Udf0c63YZGeca1fb2bea7e07Sb4d27c1bfda96b73f11bc3bfb5c784f47d227d6af7f67e93f66afd9fbc53ad7c3eYd7fc2eefN1fH2d7e81f8d9fb5f2784bc5dadfc17f80dW4ff85ebfb41e83fd932fObc3bRea5e32f873Y3be19da5fe9567e26993e337ed1ba5fc31f8Pe16f0678c65f0b6a9e18d4f40f833e17Yf7c43f8f3acdbfc47f85feIbdf85ba17c0df126bff1a3c1e9fb13fecd57fa269765278e75fbafOde2c92e74ff19fc78f8cda8e856fa66a3f1fbe38be91e1fd3bc49e2fd7f4Tad475a8348b5d6Wd1b4eb2d0fU9a5ddea5e12f84bf0ab41f04fc14Y0da7863e1bf84fU3a368de3L188aMa72a34e6R56a8d7b6a8b78c6367c89af853692508T24a5cd7949ca5fa7M864b8bc662Sf9962f0f3c1e59828f3e59846e518d6af38a4b1528c973d66e0dd5a98a9462eb5474a345ac3518d0a5fa09Y2f41fec1f86ba179969f65bcd67ed3af5e7eZGcffb4ff68ca7fb36efe59a68a1f3b43874afdc45e5797b7fd2214bc3739f5ea28aYcfd6d2b24bb2b1f1378afc79ZG051cb3f14f896d3c0ffb2a7ec4de22YKaebfac5b783fc41e2bfdbffe3af8Ic53aef85Qd46e62Yfeb1e25f07e91fY4d2f1e693e14d7f53d256d2f758f0d697e38f19e9da16aIdce9765e2bf115b5ac5abde607fc2c4ff82a27fd19e7ec0fZG8b24fda1bffa54f4514fe4bf1ff3feaefcac59f77f87f9Hdc78f3fe0a79776f3da5dfec6bfbGdd5add432dbdcdb5c7fc147ff6839adee2de6468e6827864ZG8252b472c3346cd1cb148ac922I23a95241fcd8f1ZGec3bZG050fb2f16f8b7e25fecadf067fL5fd8a3c6be3ad63c43e2af8916ZGb37ffc1473c713f82be25fObc4774bac7897c45ae7c0cf8cbZG0475f881fb38dd7c53f196b76da6dcf88be3aea1YU7c74d42cb45d07c1a9f16349f8716ba878535128R84e5092941b8c96d28b69fde9a7fYfe96c6be1a862a94a8e26953c4519db9a956a74ea53959a92e684e2e2d2693b34d68788f8974cff8394af75aYfdc7897e0d7fc115b5ed6bU9ae49e26Y7eab3f82ZG6e6f1349e12f125ff85b5eY95c7O7c25addbdcea50e91ae5c7837c63e29f0a5deada25ec37e7Jf12f893c397338b1d5b56b19e2bef85bZG05e2f8c734761fb40e93Y37fb0efdadf48bef867fb257ed47fb447ec69f0dbc41616f3adf68daaebdf115bf61bf8b5fb5e785bc5f6be22963bcd675ef863fb60fc2af026bbe1cd13c3fe13fH7c3f97c3f3fc471f118a2b578ac4b4d3afKa6acd7b49eRd15afbdadd475eaef2beecf229Mde4542a46a52caY6aM92M94a8426e0d4eI528f3c64a32526dc5c52717f0b5647d71f063fL4fdbdbe13f863c2fe10f05fec37fY4e6f86bf0dbc3b36a52e9fY9bUZGb73fc5df87be1fd2d350d5b51d6350b7d3f4cf037fc12fXfc39a3c3ad6b77f79ae6a8da3422e2fa7d4efeea59ed757bc9Xa1fb5b48f16ffc14cbJd32cf47d1ff630fdN74fd374f8441696907fc148ff6O091a025dPPZGW950d24b34b233cd717133c971737124b71712cb3cb248c51587c97e3fe7fd5df95bdc5151d9bfc3fcbfe01a5ZG0b13fe0a89ZG4679fb03ZGe2c93f686ffe953d77df0c3c67fb79eade39d0f4ZG8d1fb36fec8bW1f86971fda7fY92f8b7e187edb7f197e2ef8e749f2b47d427d1ZGSfe1e78affe09fbY47Jf10fdbf5f8f4adI53fb7fc50f0c7f64e8f79a86b96bfdb57ba65b787b5628a5f2fcZGcffabfa59d9f77f87f91Zd9</m_data>
+			<m_srcFile type="a">D:\ARCHIVOS\Anthony Alanya\CIBERTEC\Ciclo-Regular\CICLO_3\PorRevisar\ADS\ProyectoRhapsody\BusinessModelingProfile\images_bmp\bentity.jpg</m_srcFile>
+			<m_fileModifiedTime type="a">1.2.2021::18:51:8</m_fileModifiedTime>
+		</CGIImageData>
+		<CGIClass type="e">
+			<_id type="a">GUID a7ef4dc8-d5e5-4001-86b4-ca6a83f5d3bd</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6e111b0d-02de-4038-91c1-8225706f0dc8</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Bases_Subasta</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 565.841 96.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 8c2164c9-36c2-4099-a3b1-b0eff971ed42</value>
+				<value>GUID 3ed89056-8c90-4cac-908c-5efdfccf30bd</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 8c2164c9-36c2-4099-a3b1-b0eff971ed42</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 3ed89056-8c90-4cac-908c-5efdfccf30bd</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID a922a00b-5461-4800-bec7-2d273b7a4aad</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID a5dbf612-a3f8-4ffd-abf8-96679287d053</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Contrato_CompVenta</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 565.841 292.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID e451f2a3-7baf-4e35-9254-06598b529886</value>
+				<value>GUID 51120cf8-571e-4b31-92fe-b242955f9c1e</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID e451f2a3-7baf-4e35-9254-06598b529886</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 51120cf8-571e-4b31-92fe-b242955f9c1e</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID 62872975-5943-408f-be43-cddde6518ce5</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID d93e02b8-ec1d-41e9-ad97-f7827b86ad0f</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Informe_PSP</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 134.841 504.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 36e1adc8-6494-40b0-aee5-79bc65568428</value>
+				<value>GUID c7e34a89-0f5d-49ea-9e22-92c6515634f3</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 36e1adc8-6494-40b0-aee5-79bc65568428</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID c7e34a89-0f5d-49ea-9e22-92c6515634f3</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID 7ba5b6b4-cce5-4bac-a0c1-910fa8c2919d</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID fdcecfd8-b599-4699-815f-97c79c9227e1</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Propuesta_SP</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 351.841 497.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 6d31dd32-be47-464d-bfaa-8cda643fc0fe</value>
+				<value>GUID 17ccae26-370d-4499-af9c-f20ab3e9fc34</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 6d31dd32-be47-464d-bfaa-8cda643fc0fe</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 17ccae26-370d-4499-af9c-f20ab3e9fc34</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID 538b3156-f8ab-419a-95ce-5ac1cd8da32c</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID e02c78a3-7914-4e35-b754-6c9a4c2501b3</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Propuesta_VI</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 565.841 497.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID ca3cd5b8-ae5d-47b4-8147-6deea2e3712b</value>
+				<value>GUID 857b16e9-e2fe-4a24-8f4c-d571da2f487f</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID ca3cd5b8-ae5d-47b4-8147-6deea2e3712b</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 857b16e9-e2fe-4a24-8f4c-d571da2f487f</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID e34c3594-8cd5-4612-96cd-fcd2eb4407d0</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 4376609a-ce17-4c12-8d3e-6d7aa6b66177</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Documento_acuerdo</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 149.841 716.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 4d5b49df-4ce9-4d17-8045-03e515a6d285</value>
+				<value>GUID 5347adee-5147-4840-9ed3-88c8ee438dc7</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 4d5b49df-4ce9-4d17-8045-03e515a6d285</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 5347adee-5147-4840-9ed3-88c8ee438dc7</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID 91515f83-cae2-479a-a3de-6b32fc6ec858</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 23f4329e-99ae-4ff0-96f6-81ae6baa7396</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Propuesta_VP</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 357.841 716.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID c20a9d64-e733-4840-8f34-7f30669520b2</value>
+				<value>GUID f3fd6f94-c2d7-41ef-8588-a8cd5527adec</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID c20a9d64-e733-4840-8f34-7f30669520b2</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID f3fd6f94-c2d7-41ef-8588-a8cd5527adec</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID c1148255-8388-4810-9e47-76d7bca517ce</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID a94ffdc6-3f45-4d56-9946-7c8fde24b635</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 1539e5d4-1e7d-4b2d-b929-07cd6e5742c1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Propuestas_postor</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 567.841 716.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID d82e976f-f148-4767-bc5c-82628e83710a</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID ec402529-7f9a-4462-801a-89f601530514</value>
+				<value>GUID 02d80352-ba2d-4667-9480-d28e5bf3c77d</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID ec402529-7f9a-4462-801a-89f601530514</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 02d80352-ba2d-4667-9480-d28e5bf3c77d</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<IClass type="e">
+			<_id type="a">GUID 99644ec3-a083-407f-87bc-db24a4819dde</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID ebeb9167-a092-4174-b6f1-9735a52dc67f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Expediente</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::7:42:21</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::7:42:21</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::7:42:21</weakCGTime>
+			<strongCGTime type="a">6.13.2019::5:29:1</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID cc68b431-ec6e-4bfa-b50f-c885cb854d2b</value>
+				<value>GUID 5389504c-dc9b-44b7-8997-6693c15cda00</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID cc68b431-ec6e-4bfa-b50f-c885cb854d2b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEspecialista</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::5:27:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::5:27:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Especialista</_hname>
+					<_hid type="a">GUID 82a1f268-965c-4b9b-bfaf-08e9c8a13fc1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Especialista</_hclass>
+					<_hname type="a">itsExpediente</_hname>
+					<_hid type="a">GUID a883b4f9-a965-4c51-9c63-69f80d71e033</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5389504c-dc9b-44b7-8997-6693c15cda00</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGerente_GGI</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::7:42:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::7:42:21</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Gerente_GGI</_hname>
+					<_hid type="a">GUID 898570b5-c5b4-4a39-ac69-c841fa04b461</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Gerente_GGI</_hclass>
+					<_hname type="a">itsExpediente</_hname>
+					<_hid type="a">GUID 705f388c-b77e-4eab-b984-d06da5688e1a</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 6e111b0d-02de-4038-91c1-8225706f0dc8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Bases_Subasta</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::7:41:48</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::7:41:48</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::7:41:48</weakCGTime>
+			<strongCGTime type="a">6.13.2019::7:23:25</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 2df5e4f8-87ea-4d1e-9dda-86c7329a1c58</value>
+				<value>GUID 473ebe19-f916-4bec-ba0a-30de21ca8ced</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2df5e4f8-87ea-4d1e-9dda-86c7329a1c58</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEspecialista</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::5:27:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::5:27:41</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Especialista</_hname>
+					<_hid type="a">GUID 82a1f268-965c-4b9b-bfaf-08e9c8a13fc1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Especialista</_hclass>
+					<_hname type="a">itsBases_Subasta</_hname>
+					<_hid type="a">GUID 0e550f5e-ee7b-40b5-be06-d991e98043a6</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 473ebe19-f916-4bec-ba0a-30de21ca8ced</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGerente_GGI</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::7:41:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::7:41:48</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Gerente_GGI</_hname>
+					<_hid type="a">GUID 898570b5-c5b4-4a39-ac69-c841fa04b461</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Gerente_GGI</_hclass>
+					<_hname type="a">itsBases_Subasta</_hname>
+					<_hid type="a">GUID 4fd39dac-f694-4f4f-af36-e04423dc6204</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID a5dbf612-a3f8-4ffd-abf8-96679287d053</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Contrato_CompVenta</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::5:27:49</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::5:27:49</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::5:27:49</weakCGTime>
+			<strongCGTime type="a">6.13.2019::7:24:14</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 1b364642-ad69-4c50-bda0-811d2240bc0b</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1b364642-ad69-4c50-bda0-811d2240bc0b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGerente_GGI</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::5:27:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::5:27:49</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Gerente_GGI</_hname>
+					<_hid type="a">GUID 898570b5-c5b4-4a39-ac69-c841fa04b461</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Gerente_GGI</_hclass>
+					<_hname type="a">itsContrato_CompVenta</_hname>
+					<_hid type="a">GUID aecbcbd4-03d0-494e-b195-b28cfef73e4d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID b05d0feb-ed6e-4889-86be-22796c34cb6d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Informe_ProcesosJudiciales</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::5:15:7</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::5:15:7</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::5:15:7</weakCGTime>
+			<strongCGTime type="a">6.13.2019::5:15:7</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 2e9bb688-60fa-4882-88fd-f5cdb919ece7</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2e9bb688-60fa-4882-88fd-f5cdb919ece7</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEspecialista</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::5:15:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::5:15:7</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Especialista</_hname>
+					<_hid type="a">GUID 82a1f268-965c-4b9b-bfaf-08e9c8a13fc1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Especialista</_hclass>
+					<_hname type="a">itsInforme_ProcesosJudiciales</_hname>
+					<_hid type="a">GUID fbc805b1-ffdc-4df9-90dd-a03bb402f959</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 935a95fa-ef96-4408-b17e-bcf3a71fb847</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Opinion_Legal</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::5:14:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::5:14:24</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::5:14:24</weakCGTime>
+			<strongCGTime type="a">6.13.2019::5:14:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 62d1f0b2-4ceb-480f-9a40-db2282a0739e</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 62d1f0b2-4ceb-480f-9a40-db2282a0739e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsJefe_OGAL</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::5:11:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::5:11:6</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Jefe_OGAL</_hname>
+					<_hid type="a">GUID ef1ac2a7-44bc-42f7-83d3-3896141b8903</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Jefe_OGAL</_hclass>
+					<_hname type="a">itsOpinion_Legal</_hname>
+					<_hid type="a">GUID 0c0050f9-c14e-471e-b290-384a1da84ce3</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 094504b3-7f56-4f90-a6be-2cef0a1d6213</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Informe_Contrato</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::9:37:7</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::5:14:27</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::9:37:7</weakCGTime>
+			<strongCGTime type="a">6.13.2019::5:14:27</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID fa472c45-05b0-47b3-9a6e-7e1023d2bd2f</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID fa472c45-05b0-47b3-9a6e-7e1023d2bd2f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEspecialista</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::9:37:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::9:37:7</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Especialista</_hname>
+					<_hid type="a">GUID 82a1f268-965c-4b9b-bfaf-08e9c8a13fc1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Especialista</_hclass>
+					<_hname type="a">itsInforme_Contrato</_hname>
+					<_hid type="a">GUID c379cf5b-ee6a-451f-bff7-bf1482ee96b1</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID d93e02b8-ec1d-41e9-ad97-f7827b86ad0f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Informe_PSP</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::7:13:44</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::7:13:44</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::7:13:44</weakCGTime>
+			<strongCGTime type="a">6.13.2019::7:12:18</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 1d80b8a1-3e37-44a8-b458-cfe5988271aa</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1d80b8a1-3e37-44a8-b458-cfe5988271aa</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEspecialista</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::7:13:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::7:13:44</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Especialista</_hname>
+					<_hid type="a">GUID 82a1f268-965c-4b9b-bfaf-08e9c8a13fc1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Especialista</_hclass>
+					<_hname type="a">itsInforme_PSP</_hname>
+					<_hid type="a">GUID 9816c51c-4988-4f73-959d-adfdf160d977</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID fdcecfd8-b599-4699-815f-97c79c9227e1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Propuesta_SP</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::7:20:51</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::7:20:51</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::7:20:51</weakCGTime>
+			<strongCGTime type="a">6.13.2019::7:20:6</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 2e5e33d7-ccc7-464a-b1f0-405fbe50b4bb</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2e5e33d7-ccc7-464a-b1f0-405fbe50b4bb</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsJefe_OSG</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::7:20:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::7:20:51</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Jefe_OSG</_hname>
+					<_hid type="a">GUID ad000b87-87d1-46cd-9302-228b27d848a3</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Jefe_OSG</_hclass>
+					<_hname type="a">itsPropuesta_SP</_hname>
+					<_hid type="a">GUID d3b26796-7766-4f40-9716-c18e87f8a5b3</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID e02c78a3-7914-4e35-b754-6c9a4c2501b3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Propuesta_VI</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::7:30:41</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::7:30:41</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::7:30:41</weakCGTime>
+			<strongCGTime type="a">6.13.2019::7:23:10</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 9acbadc4-f04f-4795-b780-1e9c34187b53</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 9acbadc4-f04f-4795-b780-1e9c34187b53</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsDirectorio</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::7:30:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::7:30:41</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Directorio</_hname>
+					<_hid type="a">GUID 1576122c-c94e-4ad1-a9f0-cbf113928f0d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Directorio</_hclass>
+					<_hname type="a">itsPropuesta_VI</_hname>
+					<_hid type="a">GUID 6959e823-1df6-44a5-b2af-6705cae4626f</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 4376609a-ce17-4c12-8d3e-6d7aa6b66177</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Documento_acuerdo</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::7:27:10</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::7:27:10</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::7:27:10</weakCGTime>
+			<strongCGTime type="a">6.13.2019::7:25:38</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID c438c79b-11de-423d-82b8-bf0e34e4a227</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID c438c79b-11de-423d-82b8-bf0e34e4a227</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsJefe_OSG</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::7:27:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::7:27:10</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Jefe_OSG</_hname>
+					<_hid type="a">GUID ad000b87-87d1-46cd-9302-228b27d848a3</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Jefe_OSG</_hclass>
+					<_hname type="a">itsDocumento_acuerdo</_hname>
+					<_hid type="a">GUID 9431777d-32f7-45a7-b3de-0a9a9c70deaf</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 23f4329e-99ae-4ff0-96f6-81ae6baa7396</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Propuesta_VP</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::7:46:1</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::7:46:1</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::7:46:1</weakCGTime>
+			<strongCGTime type="a">6.13.2019::7:36:59</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 30100fb9-2927-4a63-9688-3a12c6ce9d4f</value>
+				<value>GUID 28e702f4-b1ef-45e7-a162-b2c391e44dc1</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 30100fb9-2927-4a63-9688-3a12c6ce9d4f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsDirectorio</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::7:38:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::7:38:13</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Directorio</_hname>
+					<_hid type="a">GUID 1576122c-c94e-4ad1-a9f0-cbf113928f0d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Directorio</_hclass>
+					<_hname type="a">itsPropuesta_VP</_hname>
+					<_hid type="a">GUID a622fc30-2eda-439c-a072-ba05f4446532</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 28e702f4-b1ef-45e7-a162-b2c391e44dc1</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsJefe_Consejo</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::7:46:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::7:46:1</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Jefe_Consejo</_hname>
+					<_hid type="a">GUID abae2833-d4b7-4061-87a8-0bb706c8c252</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Jefe_Consejo</_hclass>
+					<_hname type="a">itsPropuesta_VP</_hname>
+					<_hid type="a">GUID 9cd4888f-38a1-48fa-84b2-7632a2f8a3be</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 0bbede87-4330-42da-8fcf-87a263d7d4f2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">class_14</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::8:12:1</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::8:12:1</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::8:12:1</weakCGTime>
+			<strongCGTime type="a">6.13.2019::8:12:1</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID a94ffdc6-3f45-4d56-9946-7c8fde24b635</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Propuestas_postor</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.13.2019::8:17:47</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 8484225c-300e-44bd-b00c-e3dd495ffb3e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.13.2019::8:17:47</_modifiedTime>
+			<weakCGTime type="a">6.13.2019::8:17:47</weakCGTime>
+			<strongCGTime type="a">6.13.2019::8:14:55</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 258dbbcd-e739-45f8-ab93-2d6804cf03d9</value>
+				<value>GUID 349488b7-3484-463d-b6c4-bd2bac8a84f8</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 258dbbcd-e739-45f8-ab93-2d6804cf03d9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsJefe_CS</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::8:17:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::8:17:37</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Jefe_CS</_hname>
+					<_hid type="a">GUID 318bd4e5-ded5-48f2-b3ed-f1013b9622c0</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Jefe_CS</_hclass>
+					<_hname type="a">itsPropuestas_postor</_hname>
+					<_hid type="a">GUID d4044e69-76b6-4460-bbc7-7f0708a46886</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 349488b7-3484-463d-b6c4-bd2bac8a84f8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsJefe_CS_1</_name>
+			<_modifiedTimeWeak type="a">6.13.2019::8:17:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2019::8:17:47</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hname type="a">Jefe_CS</_hname>
+					<_hid type="a">GUID 318bd4e5-ded5-48f2-b3ed-f1013b9622c0</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Trabajadores_Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::Trabajadores_Negocio</_hsubsystem>
+					<_hclass type="a">Jefe_CS</_hclass>
+					<_hname type="a">itsPropuestas_postor_1</_hname>
+					<_hid type="a">GUID e1e5dbc8-05e6-4ee8-b981-4433a2ab48e5</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
